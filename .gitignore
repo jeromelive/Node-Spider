@@ -1,2 +1,5 @@
 */node_modules
 .gitignore
+News/image/
+News/data/
+CNode/data.txt
